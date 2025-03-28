@@ -1,0 +1,9 @@
+//mapcycle_retro.txt
+
+cp_yukon_final
+cp_badlands
+cp_gravelpit
+cp_dustbowl
+cp_granary_pro_rc16f
+koth_product_final
+cp_sunshine
